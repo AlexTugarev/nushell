@@ -245,7 +245,7 @@ To set one of these variables, you can use `config set`. For example:
 
 ### Shells
 
-Nu will work inside of a single directory and allow you to navigate around your filesystem by default.
+Nu will work inside of a single directory and allow you tom by default.
 Nu also offers a way of adding additional working directories that you can jump between, allowing you to work in multiple directories at the same time.
 
 To do so, use the `enter` command, which will allow you create a new "shell" and enter it at the specified path.
